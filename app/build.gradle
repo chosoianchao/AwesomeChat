@@ -101,6 +101,10 @@ dependencies {
     implementation "com.google.firebase:firebase-bom:$firebase_boom_version"
     implementation 'com.google.firebase:firebase-auth-ktx:21.0.1'
 
+
+    implementation 'com.google.firebase:firebase-database-ktx:20.0.3'
+
+
 }
 
 // Allow references to generated code
